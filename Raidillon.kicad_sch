@@ -2281,7 +2281,7 @@
 			(uuid "7aa515c6-f199-433a-afd2-a0dc2c85a4be")
 		)
 		(instances
-			(project "Spa-Raidillon"
+			(project "Raidillon"
 				(path "/c7c1fa07-b1f1-4333-8175-bf8c0499ed8b"
 					(page "4")
 				)
@@ -2359,7 +2359,7 @@
 			(uuid "c821de24-944e-4b0e-8baf-e9707f2149cf")
 		)
 		(instances
-			(project "Spa-Raidillon"
+			(project "Raidillon"
 				(path "/c7c1fa07-b1f1-4333-8175-bf8c0499ed8b"
 					(page "2")
 				)
@@ -2527,7 +2527,7 @@
 			(uuid "65c3870d-591e-47ba-8cda-6845b3374cf7")
 		)
 		(instances
-			(project "Spa-Raidillon"
+			(project "Raidillon"
 				(path "/c7c1fa07-b1f1-4333-8175-bf8c0499ed8b"
 					(page "3")
 				)

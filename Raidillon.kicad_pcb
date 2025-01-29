@@ -2998,7 +2998,7 @@
 		)
 		(path "/13289631-6512-4910-b98e-6513cacd9fb7")
 		(sheetname "Root")
-		(sheetfile "Spa-Raidillon.kicad_sch")
+		(sheetfile "Raidillon.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 0.735)
@@ -4037,7 +4037,7 @@
 		)
 		(path "/535c34a2-1872-47c5-9003-a3348b261b5d")
 		(sheetname "Root")
-		(sheetfile "Spa-Raidillon.kicad_sch")
+		(sheetfile "Raidillon.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -5038,7 +5038,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "RMCF0805JT4K70"
+		(property "Value" "DNP 0805"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -5079,7 +5079,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "RES 4.7K OHM 5% 1/8W 0805"
+		(property "Description" "Res 0805 Do Not Populate"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5149,7 +5149,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Resistance" "4.7kΩ"
+		(property "Resistance" "DNP"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5163,7 +5163,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "-"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5205,7 +5205,7 @@
 				(justify mirror)
 			)
 		)
-		(path "/c1b40844-8219-482d-890b-f526596d823e/271742dc-d675-4603-a50d-dec0b505a38a")
+		(path "/c1b40844-8219-482d-890b-f526596d823e/012b8ba5-1893-4404-a83e-c9d3a39426f2")
 		(sheetname "MCU")
 		(sheetfile "mcu.kicad_sch")
 		(attr smd)
@@ -5977,7 +5977,7 @@
 		)
 		(path "/eaa1ba03-ab84-42ca-814b-a0159a7d063b")
 		(sheetname "Root")
-		(sheetfile "Spa-Raidillon.kicad_sch")
+		(sheetfile "Raidillon.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.44 1.33)
@@ -6660,7 +6660,7 @@
 		)
 		(path "/7be46419-8faf-4a7e-b146-9c9807db47c8")
 		(sheetname "Root")
-		(sheetfile "Spa-Raidillon.kicad_sch")
+		(sheetfile "Raidillon.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.06 3.31)
