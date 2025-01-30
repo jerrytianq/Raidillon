@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "c7c1fa07-b1f1-4333-8175-bf8c0499ed8b")
 	(paper "A4")
+	(title_block
+		(title "Radillon")
+		(date "2025-01-29")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn-1x03-2.54mm-RA_PH1RA-03-UA"
 			(exclude_from_sim no)

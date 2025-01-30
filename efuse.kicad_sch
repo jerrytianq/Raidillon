@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "29937b44-6afa-49b2-bff3-7390cf85d448")
 	(paper "A4")
+	(title_block
+		(title "Radillon")
+		(date "2025-01-29")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "Capacitors_MLCC:CC0805JRNPO9BN471"
 			(pin_numbers hide)
